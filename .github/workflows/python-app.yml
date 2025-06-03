@@ -1,7 +1,5 @@
 name: CI/CD
 
-on: [push]
-
 on:
   push:
     branches: [ $default-branch ]
