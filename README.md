@@ -1,1 +1,1 @@
-Repostiori per provar CI/CD a l'assignatura GPS!
+Repostiori per provar CI/CD a l'assignatura GPS!!
