@@ -1,3 +1,5 @@
+"""Tests"""
+
 import unittest
 import transform
 

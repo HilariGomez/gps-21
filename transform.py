@@ -1,4 +1,4 @@
-""" fitxer de funcions auxiliars"""
+"""Fitxer de funcions auxiliars"""
 
 
 def to_upper_case(string):
