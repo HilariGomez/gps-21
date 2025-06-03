@@ -11,7 +11,7 @@ def main():
     print("[2] Text amb tot minúscuies")
     print("[3] Text capitalitzat ")
 
-    opcio = input("opció escollida: ")
+    opcio = input("Opció escollida: ")
 
     if opcio == "1":
         print(transform.to_upper_case(string))
